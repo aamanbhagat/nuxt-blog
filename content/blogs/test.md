@@ -1,18 +1,43 @@
----
-title: Unraveling the Fascinating World of Cricket: Everything You Need to Know
-date: 10th May 2024
-description: Discover the captivating world of cricket in this comprehensive guide. From its origins to its modern-day popularity, delve into the intricacies of this beloved sport.
-image: /blogs-img/blog5.jpg
-alt: Some Awesome Libraries For Vue3
-ogImage: /blogs-img/blog5.jpg
-tags: ['cricket',"sports"]
-published: true
----
-
 # Unraveling the Fascinating World of Cricket: Everything You Need to Know
 
 ## Introduction
 Cricket, often dubbed as the gentleman's game, has evolved from its humble beginnings to become a global phenomenon. In this detailed guide, we'll explore every aspect of cricket, from its rich history to its current prominence on the international stage.
+
+---
+
+| **Outline** | |
+| --- | --- |
+| **Origins of Cricket** | |
+| **Evolution of Cricket Equipment** | |
+| **Types of Cricket Matches** | |
+| **Rules and Regulations** | |
+| **Key Skills Required in Cricket** | |
+| **Famous Cricket Players** | |
+| **Popularity of Cricket Worldwide** | |
+| **Influence of Cricket on Culture** | |
+| **Cricket Formats** | |
+| **Test Cricket** | |
+| **One Day International (ODI) Cricket** | |
+| **Twenty20 (T20) Cricket** | |
+| **Cricket Leagues Around the World** | |
+| **Indian Premier League (IPL)** | |
+| **Big Bash League (BBL)** | |
+| **The Ashes Series** | |
+| **Cricket World Cup** | |
+| **Women's Cricket** | |
+| **Future of Cricket** | |
+| **Technological Innovations in Cricket** | |
+| **Impact of Cricket on Society** | |
+| **Cricket Terminology** | |
+| **Common Cricket Injuries** | |
+| **Sportsmanship in Cricket** | |
+| **Ethical Issues in Cricket** | |
+| **Cricket and Betting** | |
+| **The Spirit of Cricket** | |
+| **FAQs (Frequently Asked Questions)** | |
+| **Conclusion** | |
+
+---
 
 ### **Origins of Cricket**
 Cricket's roots can be traced back to 16th-century England, where it was played by rural communities. Initially, it was a simple bat-and-ball game, gradually evolving into the structured sport we know today.
