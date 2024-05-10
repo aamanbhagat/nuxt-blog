@@ -1,7 +1,15 @@
-# Unraveling the Fascinating World of Cricket: Everything You Need to Know
+---
+title: Unraveling the Fascinating World of Cricket: Everything You Need to Know
+date: 10th May 2024
+description: Discover the captivating world of cricket in this comprehensive guide. From its origins to its modern-day popularity, delve into the intricacies of this beloved sport.
+image: /blogs-img/blog5.jpg
+alt: Some Awesome Libraries For Vue3
+ogImage: /blogs-img/blog5.jpg
+tags: ['cricket',"sports"]
+published: true
+---
 
-## SEO Meta Description:
-Discover the captivating world of cricket in this comprehensive guide. From its origins to its modern-day popularity, delve into the intricacies of this beloved sport.
+# Unraveling the Fascinating World of Cricket: Everything You Need to Know
 
 ## Introduction
 Cricket, often dubbed as the gentleman's game, has evolved from its humble beginnings to become a global phenomenon. In this detailed guide, we'll explore every aspect of cricket, from its rich history to its current prominence on the international stage.
