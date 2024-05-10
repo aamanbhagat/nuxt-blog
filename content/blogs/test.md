@@ -15,7 +15,6 @@ published: true
 Cricket, often dubbed as the gentleman's game, has evolved from its humble beginnings to become a global phenomenon. In this detailed guide, we'll explore every aspect of cricket, from its rich history to its current prominence on the international stage.
 
 ---
-
 | **Outline** | |
 | --- | --- |
 | **Origins of Cricket** | |
@@ -47,7 +46,6 @@ Cricket, often dubbed as the gentleman's game, has evolved from its humble begin
 | **The Spirit of Cricket** | |
 | **FAQs (Frequently Asked Questions)** | |
 | **Conclusion** | |
-
 ---
 
 ### **Origins of Cricket**
